@@ -1,0 +1,5 @@
+a=int(input("Enter the number a:"))
+b=int(input("enter the number b:"))
+print(a>=10 and b<=30)
+print(a>=10 or b<=30)
+print(not(a>=b))
