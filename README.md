@@ -3,7 +3,7 @@
 This repository contains beginner Python programs built to practice
 core Python concepts.
 
-## Programs Included
+ 🔹 1️⃣ Input / Output & Variables
 1. Hello World
 2. Read name and age
 3. Swap two numbers
@@ -14,6 +14,17 @@ core Python concepts.
 8. Area of Circle
 9. Area of Rectangle
 10. Average of Numbers
+        2️⃣ Operators
+
+12. Arithmetic operations
+13. Check even or odd
+14. Check positive or negative
+15. Check divisible by 3 and 5
+16. Find quotient and remainder
+17. Power of a number
+18. Floor division example
+19. Modulus operator example
+
 
 ## Concepts Used
 - Input / Output
