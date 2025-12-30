@@ -14,7 +14,7 @@ core Python concepts.
 8. Area of Circle
 9. Area of Rectangle
 10. Average of Numbers
-        2️⃣ Operators
+  2️⃣ Operators
 
 12. Arithmetic operations
 13. Check even or odd
