@@ -14,8 +14,7 @@ core Python concepts.
 8. Area of Circle
 9. Area of Rectangle
 10. Average of Numbers
-  2️⃣ Operators
-
+2️⃣ Operators
 12. Arithmetic operations
 13. Check even or odd
 14. Check positive or negative
@@ -24,6 +23,11 @@ core Python concepts.
 17. Power of a number
 18. Floor division example
 19. Modulus operator example
+## 🔹 3️⃣ Conditional Statements
+19. Largest of two numbers
+20. Largest of three numbers
+21. Leap year check
+22. Vowel or consonant
 
 
 ## Concepts Used
