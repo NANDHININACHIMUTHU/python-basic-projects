@@ -1,3 +1,7 @@
+# Student Mark System
+# This program accepts multiple students marks,
+# calculates total, average, grade and pass/fail.
+
 no=int(input("Enter the number of students:"))
 subjects=['tamil','english','maths','science','social']
 
