@@ -31,8 +31,8 @@ core Python concepts.
 20. Largest of three numbers
 21. Leap year check
 22. Vowel or consonant
-### Mini Projects
-- Student Mark System (Multiple Students)
+## 🔹 3️⃣ Mini Projects
+1. Student Mark System (Multiple Students)
 
 
 ## Concepts Used
