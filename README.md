@@ -33,6 +33,11 @@ core Python concepts.
 22. Vowel or consonant
 ## 🔹 3️⃣ Mini Projects
 1. Student Mark System (Multiple Students)
+2. Simple login validation
+3. Traffic light simulation
+4. ATM program
+5. Number guessing
+
 
 
 ## Concepts Used
