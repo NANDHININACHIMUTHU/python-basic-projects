@@ -1,9 +1,9 @@
 # ATM System
 #A mini Python ATM simulation program that allows users to:
-#- Check account balance  
-#- Deposit money  
-#- Withdraw money  
-#- Exit the system  
+#-Check account balance  
+#-Deposit money  
+#-Withdraw money  
+#-Exit the system  
 #It uses loops and conditional statements to perform real-time balance updates.
 
 balance=1000
