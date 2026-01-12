@@ -36,7 +36,8 @@ core Python concepts.
 2. Simple login validation
 3. Traffic light simulation
 4. ATM program
-5. Number guessing
+5. Number guessing Game
+6. Mind Reading Number Game
 
 
 
